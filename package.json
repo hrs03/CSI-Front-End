@@ -1,10 +1,10 @@
 {
-  "name": "paper-kit-2-angular",
+  "name": "csi-front-end",
   "version": "1.3.0",
-  "license": "MIT",
+  "license": "",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/creativetimofficial/CSI-Front-End.git"
+    "type": "",
+    "url": ""
   },
   "scripts": {
     "ng": "ng",
