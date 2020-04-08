@@ -1,51 +1,34 @@
-## Table of Contents
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
 
 
-## Versions
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2-angular)
+## Install Project
 
+run `npm install` for installing all dependencies, this has to be done only first time.
 
-| HTML | Angular |
-| --- | --- |
-| ![Paper Kit 2 HTML](https://s3.amazonaws.com/creativetim_bucket/products/61/opt_pk2_thumbnail.jpg) | ![Paper Kit 2 Angular](https://s3.amazonaws.com/creativetim_bucket/products/65/opt_pk2_angular_thumbnail.jpg)
+## Development server
 
-## Demo
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-- [Start page](https://demos.creative-tim.com/paper-kit-2-angular/home)
-- [Landing Page](https://demos.creative-tim.com/paper-kit-2-angular/landing)
-- [Register Page](https://demos.creative-tim.com/paper-kit-2-angular/signup)
-- [Profile Page](https://demos.creative-tim.com/paper-kit-2-angular/user-profile)
+## Code scaffolding
 
-[View More](https://demos.creative-tim.com/paper-kit-2-angular/).
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+## Build
 
-## Quick start
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Quick start options:
+## Running unit tests
 
-- [Download from Github](https://github.com/creativetimofficial/pk2-angular.git).
-- [Download from Creative Tim](https://www.creative-tim.com/product/paper-kit-2-angular).
-- Clone the repo: `git clone https://github.com/creativetimofficial/pk2-angular.git`.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
-## Documentation
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. You can also check the [documentation online](https://demos.creative-tim.com/paper-kit-2-angular/documentation/tutorial).
+## Further help
 
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## File Structure
 
 Within the download you'll find the following directories and files:
