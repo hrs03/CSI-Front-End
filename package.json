@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativetimofficial/pk2-angular.git"
+    "url": "https://github.com/creativetimofficial/CSI-Front-End.git"
   },
   "scripts": {
     "ng": "ng",
@@ -27,7 +27,7 @@
     "@angular/platform-browser-dynamic": "9.0.6",
     "@angular/router": "9.0.6",
     "@ng-bootstrap/ng-bootstrap": "6.0.0",
-    "bootstrap": "4.1.2",
+    "bootstrap": "^4.3.1",
     "core-js": "3.6.4",
     "jquery": "3.4.1",
     "jw-bootstrap-switch-ng2": "2.0.1",

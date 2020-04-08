@@ -1,6 +1,6 @@
 import { Pk2AngularCliFreePage } from './app.po';
 
-describe('pk2-angular-cli-free App', () => {
+describe('CSI-Front-End-cli-free App', () => {
   let page: Pk2AngularCliFreePage;
 
   beforeEach(() => {
